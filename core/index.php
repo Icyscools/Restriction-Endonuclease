@@ -5,5 +5,5 @@
 	
 	$host  = $_SERVER['HTTP_HOST'];
 
-	header("location: http://$host/lightcontrol");
+	header("location: http://$host/restriction-endonuclease");
 ?>
